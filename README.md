@@ -8,7 +8,7 @@ $ pip install farbe
 ```
 
 ## Test
-Just type these commands and check if your terminal can print colors properly:
+Just type in these commands and check if your terminal can print colors properly:
 ```sh
 >>> import farbe
 >>> farbe.test()

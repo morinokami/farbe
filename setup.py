@@ -9,7 +9,7 @@ setup(
     author='Shinya Fujino',
     author_email='shf0811@gmail.com',
     license='MIT',
-    url='https://github.com/morinokami/colors',
+    url='https://github.com/morinokami/farbe',
     py_modules=['farbe'],
     classifiers=[
         'Development Status :: 4 - Beta',
