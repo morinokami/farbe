@@ -19,7 +19,7 @@ It prints the supported combinations of colors and effects:
 ## Basic Usage
 Specify the color you want to use and feed a string to the `Farbe` object's `print` method.
 ```sh
->>> from farbe import Farbe
+>>> from farbe import Color, Farbe
 >>> bb = Farbe(Color.Fg.BrightBlue)
 >>> bb.print('Hello, Bright Blue')
 Hello, Bright Blue
