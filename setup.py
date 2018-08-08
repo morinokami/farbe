@@ -12,7 +12,11 @@ setup(
     url='https://github.com/morinokami/colors',
     py_modules=['farbe'],
     classifiers=[
-        'Programming Language :: Python :: 3',
+        'Development Status :: 4 - Beta',
+        'Environment :: Console',
         'License :: OSI Approved :: MIT License',
+        'Operating System :: MacOS',
+        'Operating System :: POSIX :: Linux',
+        'Programming Language :: Python :: 3',
     ]
 )
