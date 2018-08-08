@@ -32,7 +32,7 @@ Characters in italic
 ```
 ![Basic](https://github.com/morinokami/farbe/blob/master/docs/basic.png)
 
-### Using Colored objects
+## Using Colored objects
 `Colored` objects can be used in combination with normal strings.
 ```sh
 >>> red = Farbe(Color.Fg.Red)
