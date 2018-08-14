@@ -1,7 +1,13 @@
 import copy
 from enum import Enum
+import platform
 import sys
 from typing import List, Union
+
+
+if platform.system() == 'Windows':
+    import colorama
+    colorama.init()
 
 
 def test():
